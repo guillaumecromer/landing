@@ -1,0 +1,21 @@
+.banner {
+  background: linear-gradient(rgba(29, 22, 60, 0.3), rgba(29, 22, 60, 0.3)), url("../../images/chambre_hotes.jpg") no-repeat center;
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+  margin-bottom: 20px;
+}
+
+.banner h1 {
+  margin: 0;
+  text-shadow: 1px 1px 2px black;
+}
+
+.banner p {
+  margin: 24px 0;
+  text-shadow: 2px 2px 2px black;
+}
+
+.banner a {
+  display: inline-block;
+}

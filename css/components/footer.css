@@ -1,0 +1,33 @@
+.footer {
+  background-color: black;
+  width: 100%, auto;
+  height: 150px;
+  text-align: center;
+  padding-top: 20px;
+  margin: 0;
+}
+
+.footer p {
+  color: white;
+}
+
+.list-inline i {
+  color: #bb1542;
+}
+
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 10px;
+  font-size: 40px;
+}
+
+.list-inline > li > a:hover {
+  text-decoration: underline;
+  color: #BDB1D1;
+}
